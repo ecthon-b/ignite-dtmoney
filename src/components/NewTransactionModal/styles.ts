@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import { darken, transparentize } from 'polished'
-import { Reducer } from 'react';
 
 export const Container = styled.form`
  h2 {
